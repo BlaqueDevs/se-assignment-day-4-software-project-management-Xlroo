@@ -4,6 +4,7 @@
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 Importance:
 
+
 Customer Satisfaction: Timely delivery ensures that the product meets market needs and customer expectations, enhancing satisfaction and trust.
 Competitive Advantage: Being on time can provide a competitive edge, allowing the project to capitalize on market opportunities.
 Budget Adherence: Delays can lead to increased costs, affecting the overall project budget and financial performance.
